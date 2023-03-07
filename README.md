@@ -1,5 +1,5 @@
 # anndl-challenges-2022
-**Artificial Neural Networks and Deep Learning Challenges A.Y. 2022-2022**  
+**Artificial Neural Networks and Deep Learning Challenges A.Y. 2022-2023**  
 **Professor:** Prof. Matteo Matteucci  
 **Students**: Arya Azimi, Ottavia Belotti, Riccardo Izzo
 
