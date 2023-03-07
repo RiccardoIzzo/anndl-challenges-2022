@@ -9,5 +9,5 @@
 **Homework score**: 5.5 / 5.5
 ## Second challenge - Time Series Classification
 **Second competition link**: https://codalab.lisn.upsaclay.fr/competitions/9056  
-**Final rank**: 129th / 515  
+**Final rank**: 129th / 525  
 **Homework score**: 5.5 / 5.5
