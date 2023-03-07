@@ -1,7 +1,7 @@
 # anndl-challenges-2022
 **Artificial Neural Networks and Deep Learning Challenges A.Y. 2022-2023**  
 **Professor:** Prof. Matteo Matteucci  
-**Students**: Arya Azimi, Ottavia Belotti, Riccardo Izzo
+**Students**: [Arya Azimi](https://github.com/arv78), [Ottavia Belotti](https://github.com/OttaviaBelotti), [Riccardo Izzo](https://github.com/RiccardoIzzo)
 
 ## First challenge - Image Classification
 **First competition link**: https://codalab.lisn.upsaclay.fr/competitions/8522  
